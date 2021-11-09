@@ -1,6 +1,6 @@
 # npx killshot
 **This is my npx intro card.**
-**Pre requisites: Have [npmjs](www.npmjs.com) and [node](www.nodejs.org) installed.**
+**Pre requisites: Have [npmjs](https://www.npmjs.com/) and [node](https://nodejs.org/en/download/) installed.**
 
 **Just write👇**
 ```bash 
