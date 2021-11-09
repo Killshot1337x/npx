@@ -6,7 +6,7 @@
 ```bash 
 npx killshot  
 ```
-**in your terminal and hit enter :)**
+**in your terminal and hit enter to connect with me :)**
 
 Preview-
 
